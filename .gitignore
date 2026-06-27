@@ -1,0 +1,28 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.userprefs
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Rider
+.idea/
+*.sln.iml
